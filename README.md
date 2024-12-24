@@ -1,6 +1,6 @@
 # Unifi AP Monitoring Python Script
 
-This Python script is part of a project I am working on during my working as a **Network & Security Trainee**. The script is designed to monitor **Unifi Access Points (APs)** and provides insights into the connection status and data consumption of devices connected to the network.,This Python script helps monitor Unifi Access Points (APs) by tracking the connection status of devices. It shows when a device connects or disconnects from the AP and provides data usage statistics for each device.
+This Python script is part of a project I am working on during my working as a **Network & Security Trainee**. The script is designed to monitor **Unifi Access Points (APs)** and provides insights into the connection status and data consumption of devices connected to the network , and also store all log data in a txt file.
 
 ## Features
 

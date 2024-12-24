@@ -9,4 +9,5 @@ This Python script is part of a project I am working on during my working as a *
 - **Real-time Monitoring**: Provides real-time updates of device status and data usage.
 
 ![image](https://github.com/user-attachments/assets/ea26e358-451d-4f6e-9d44-e27907a22fbb)
+Add Your Credentials for monitor UNIFI AP's 
 

@@ -7,3 +7,6 @@ This Python script is part of a project I am working on during my working as a *
 - **Device Connection Status**: Tracks when a device connects or disconnects from the Unifi Access Point.
 - **Data Consumption**: Monitors how much data each connected device has consumed over time.
 - **Real-time Monitoring**: Provides real-time updates of device status and data usage.
+
+![image](https://github.com/user-attachments/assets/ea26e358-451d-4f6e-9d44-e27907a22fbb)
+
